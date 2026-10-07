@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### My name is Md. Abul Kazim Alamin (MAK Alamin). I'm a professional Full Stack Web Developer & WordPress Expert.
+### My name is Abul Kazim Alamin. I'm a professional Full Stack Web Developer & WordPress Expert.
 
 Currently, I work in web development projects focusing on backend development for clients and companies worldwide.  
 I'm an enthusiastic developer with a strong focus on modern web technologies and a growing interest in the latest AI innovations.  
@@ -22,4 +22,4 @@ I'm dedicated to mastering the ever-evolving world of software development and a
 💬 DM me at WhatsApp: +880 1739 530 410 <br> <br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/makalamin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01e7a7c3690adbb2aa) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/users/mak_alamin)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazimalamin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01e7a7c3690adbb2aa) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/users/mak_alamin)
